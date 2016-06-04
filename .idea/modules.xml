@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigIntegerAndBigDecimal/BigIntegerAndBigDecimal.iml" filepath="$PROJECT_DIR$/BigIntegerAndBigDecimal/BigIntegerAndBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstServlet/MyFirstServlet.iml" filepath="$PROJECT_DIR$/MyFirstServlet/MyFirstServlet.iml" />
+    </modules>
+  </component>
+</project>
